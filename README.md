@@ -1,4 +1,4 @@
-# RL SLover
+# RL Slover
 基于特定动态规划问题的强化学习求解器    
 使用 DDPG（自写），PPO（stable_baselines3）进行强化学习
 ## 依赖
