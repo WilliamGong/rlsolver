@@ -1,0 +1,3 @@
+gym
+openpyxl
+stable_baselines3
